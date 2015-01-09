@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="185.908"
+   height="195.75"
+   id="svg3103"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="AngularJS_Chile_(escudo).svg"
+   inkscape:export-filename="/home/jsanta/Documentos/Desarrollos/AngularJS.cl/resources/AngularJS_Chile_(escudo).png"
+   inkscape:export-xdpi="299.77011"
+   inkscape:export-ydpi="299.77011">
+  <defs
+     id="defs3105" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.6132535"
+     inkscape:cx="238.96662"
+     inkscape:cy="110.6994"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3108">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-384.18886,-323.05861)">
+    <polygon
+       transform="translate(393.63486,332.18361)"
+       style="fill:#b3b3b3"
+       id="polygon50"
+       points="153.4,137.792 166.462,29.46 83.243,0.875 0.554,29.975 13.621,138.311 83.331,176.625 " />
+    <polygon
+       transform="translate(393.63486,332.18361)"
+       style="fill:#a6120d"
+       id="polygon52"
+       points="83.05,167.471 146.041,132.609 158.214,35.721 83.05,10.089 " />
+    <polygon
+       transform="translate(393.63486,332.18361)"
+       style="fill:#dd1b16"
+       id="polygon54"
+       points="83.049,167.471 83.049,10.086 9.833,36.183 21.03,133.072 " />
+    <path
+       d="m 476.88674,420.61594 68.40845,0 6.55877,-52.68253 -75.02453,-25.55773 z"
+       id="path6-9"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       d="m 476.88674,420.61594 -67.29045,0 -6.12344,-52.21166 73.27616,-26.0143 z"
+       id="path8-6"
+       inkscape:connector-curvature="0"
+       style="fill:#0039a6" />
+    <g
+       id="g3307"
+       transform="translate(368.70573,247.61741)">
+      <g
+         transform="matrix(9.761029,0,0,9.761029,65.508431,137.4798)"
+         id="f-4-2">
+        <g
+           id="t-86-6">
+          <path
+             style="fill:#ffffff"
+             inkscape:connector-curvature="0"
+             id="o-5-8"
+             transform="matrix(0.95105652,0.30901699,-0.30901699,0.95105652,-0.61803399,-0.09788697)"
+             d="M 0,-2 V 0 H 1 z" />
+          <use
+             height="1052.3622"
+             width="744.09448"
+             y="0"
+             x="0"
+             id="use13-2-3"
+             transform="scale(-1,1)"
+             xlink:href="#o-5-8" />
+        </g>
+        <use
+           height="1052.3622"
+           width="744.09448"
+           y="0"
+           x="0"
+           id="use15-2-9"
+           transform="matrix(0.30901699,0.95105652,-0.95105652,0.30901699,0,5.0489042e-8)"
+           xlink:href="#t-86-6" />
+      </g>
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         id="use17-9-1"
+         transform="matrix(3.0163238,-9.2832903,9.2832903,3.0163238,65.508431,137.4798)"
+         xlink:href="#t-86-6" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         id="use19-3-8"
+         transform="matrix(-0.80901699,0.58778525,-0.58778525,-0.80901699,199.22899,209.42409)"
+         xlink:href="#f-4-2" />
+    </g>
+    <path
+       style="fill:#f2f2f2"
+       inkscape:connector-curvature="0"
+       id="path56"
+       d="m 497.37486,426.05461 -20.69,9.675 h -21.807 l -10.251,25.64 -19.067,0.353 51.125,-113.735 20.69,78.067 z m -2,-4.871 -18.553,-36.729 -15.218,36.097 h 15.08 l 18.691,0.632 z" />
+    <polygon
+       transform="translate(393.63486,332.18361)"
+       style="fill:#b3b3b3"
+       id="polygon58"
+       points="100.454,88.396 83.088,88.396 83.049,103.523 107.062,103.546 118.285,129.543 136.529,129.881 83.049,15.804 83.186,52.271 " />
+  </g>
+</svg>
